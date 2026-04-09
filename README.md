@@ -6,7 +6,7 @@ This project focuses on solving a real-world business optimization problem using
 
 The model is implemented in Python using the PuLP library and demonstrates how mathematical optimization techniques can be applied to improve decision-making in business scenarios.
 
----
+
 
 ## Internship Details
 
@@ -17,7 +17,7 @@ Domain: Data Science
 Duration: 6 Weeks  
 Mentor: Neela Santosh  
 
----
+
 
 ## Objective
 
@@ -25,7 +25,7 @@ Mentor: Neela Santosh
 - Apply resource constraints (labor and material)  
 - Use Linear Programming for optimal allocation  
 
----
+
 
 ## Technologies Used
 
@@ -33,7 +33,7 @@ Mentor: Neela Santosh
 - PuLP  
 - Jupyter Notebook  
 
----
+
 
 ## Project Implementation
 
@@ -46,14 +46,14 @@ The project includes:
 - Analysis of results including profit insights  
 - Visualization of outcomes for better understanding  
 
----
+
 
 ## Project File
 
 - task4_optimization.ipynb  
   Contains the complete implementation including model setup, solver execution, and result analysis.
 
----
+
 
 ## Key Learning Outcomes
 
@@ -62,7 +62,7 @@ The project includes:
 - Solving real-world business optimization problems  
 - Data analysis and visualization techniques  
 
----
+
 
 ## Future Enhancements
 
@@ -70,7 +70,7 @@ The project includes:
 - Add dynamic constraints and real-time inputs  
 - Integrate with business dashboards  
 
----
+
 
 ## Author
 
